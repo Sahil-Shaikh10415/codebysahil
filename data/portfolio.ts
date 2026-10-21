@@ -4,6 +4,7 @@ export const portfolio = {
   title: 'Software Engineer | Problem Solver',
   email: 'sahilshaikh10415@gmail.com',
   github: 'https://github.com/Sahil-Shaikh10415',
+  linkedin: 'https://www.linkedin.com/in/sahil-shaikh-357465258',
   education: 'B.Tech CSE · NIT Raipur · Class of 2027',
   intro: 'I enjoy solving challenging algorithmic problems and building reliable software applications. I\'m interested in software engineering, backend systems, and developing solutions that are useful in the real world.',
   resume: {
@@ -11,7 +12,7 @@ export const portfolio = {
     download: 'https://drive.google.com/uc?export=download&id=13tC76OUJlfMdHZRzySGSdWlB-bPzJNib',
   },
   skills: [
-    { title: 'Programming Languages', icon: 'code', items: ['C++', 'JavaScript', 'Python', 'SQL'], featured: true },
+    { title: 'Programming Languages', icon: 'code', items: ['C++', 'Java', 'JavaScript', 'Python', 'SQL'], featured: true },
     { title: 'Frontend Development', icon: 'layout', items: ['React.js', 'HTML5', 'CSS3', 'EJS'] },
     { title: 'Backend Development', icon: 'server', items: ['Node.js', 'Express.js', 'REST APIs', 'JWT Authentication', 'Socket.IO'], featured: true },
     { title: 'Databases', icon: 'database', items: ['MongoDB', 'Mongoose'] },
