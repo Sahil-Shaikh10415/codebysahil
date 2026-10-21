@@ -20,7 +20,7 @@ export const portfolio = {
     { title: 'CS Fundamentals', icon: 'braces', items: ['Data Structures and Algorithms', 'Object-Oriented Programming', 'Operating Systems', 'DBMS', 'Computer Networks'] },
   ],
   profiles: [
-    { name: 'LeetCode', username: 'sahilshaikh_10415', url: 'https://leetcode.com/u/sahilshaikh_10415/', solved: '1,161', rating: 'Peak 1860', badge: 'Knight', accent: '#f4b942', verified: 'Baseline · 2026' },
+    { name: 'LeetCode', username: 'sahilshaikh_10415', url: 'https://leetcode.com/u/sahilshaikh_10415/', solved: '1,161', rating: '1911 rating', badge: 'Knight', accent: '#f4b942', verified: 'Baseline · 2026' },
     { name: 'Codeforces', username: 'sahil10415', url: 'https://codeforces.com/profile/sahil10415', solved: '327', rating: '1235 current · 1237 max', badge: 'Pupil', accent: '#8ab4f8', verified: 'Baseline · 2026' },
     { name: 'CodeChef', username: 'sahilshaikh_15', url: 'https://www.codechef.com/users/sahilshaikh_15', solved: '107', rating: '1548 highest', badge: '2-star coder', accent: '#d9b38c', verified: 'Baseline · 2026' },
     { name: 'GeeksforGeeks', username: 'sahilshaimwnc', url: 'https://www.geeksforgeeks.org/profile/sahilshaimwnc?tab=activity', solved: '119', rating: null, badge: 'Profile active', accent: '#32a852', verified: 'Baseline · 2026' },
