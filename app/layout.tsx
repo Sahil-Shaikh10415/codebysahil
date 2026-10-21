@@ -5,7 +5,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Sahil Shaikh | Software Engineer',
   description: 'Portfolio of Sahil Shaikh — Computer Science undergraduate, problem solver, and software engineer in progress.',
-  generator: 'v0.app',
 }
 
 export const viewport: Viewport = {
